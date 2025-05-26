@@ -1,0 +1,10 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="120" height="120" rx="28" fill="#6C47FF"/>
+  <g>
+    <circle cx="60" cy="62" r="32" fill="#fff" />
+    <rect x="40" y="60" width="40" height="28" rx="10" fill="#E1D5FB" />
+    <rect x="52" y="68" width="16" height="16" rx="8" fill="#6C47FF" />
+    <path d="M60 52a10 10 0 00-10 10v6h20v-6a10 10 0 00-10-10z" fill="#6C47FF" />
+  </g>
+  <text x="60" y="110" text-anchor="middle" font-size="15" fill="#fff" font-family="Arial, Helvetica, sans-serif" font-weight="bold">CryptLock</text>
+</svg>
